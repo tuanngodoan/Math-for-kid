@@ -12,6 +12,11 @@
 		DC4D06BE1DD339D70039A072 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC4D06BC1DD339D70039A072 /* Main.storyboard */; };
 		DC4D06C01DD339D70039A072 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC4D06BF1DD339D70039A072 /* Assets.xcassets */; };
 		DC4D06C31DD339D70039A072 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC4D06C11DD339D70039A072 /* LaunchScreen.storyboard */; };
+		DC4D06D01DD33FAC0039A072 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = DC4D06CB1DD33FAC0039A072 /* board.png */; };
+		DC4D06D11DD33FAC0039A072 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DC4D06CC1DD33FAC0039A072 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */; };
+		DC4D06D21DD33FAC0039A072 /* note1.png in Resources */ = {isa = PBXBuildFile; fileRef = DC4D06CD1DD33FAC0039A072 /* note1.png */; };
+		DC4D06D31DD33FAC0039A072 /* note2.png in Resources */ = {isa = PBXBuildFile; fileRef = DC4D06CE1DD33FAC0039A072 /* note2.png */; };
+		DC4D06D41DD33FAC0039A072 /* note3.png in Resources */ = {isa = PBXBuildFile; fileRef = DC4D06CF1DD33FAC0039A072 /* note3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		DC4D06BF1DD339D70039A072 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC4D06C21DD339D70039A072 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC4D06C41DD339D70039A072 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC4D06CB1DD33FAC0039A072 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		DC4D06CC1DD33FAC0039A072 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cartoon-Springs-PPT-Backgrounds-1024x768.jpg"; sourceTree = "<group>"; };
+		DC4D06CD1DD33FAC0039A072 /* note1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note1.png; sourceTree = "<group>"; };
+		DC4D06CE1DD33FAC0039A072 /* note2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note2.png; sourceTree = "<group>"; };
+		DC4D06CF1DD33FAC0039A072 /* note3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +70,21 @@
 				DC4D06BF1DD339D70039A072 /* Assets.xcassets */,
 				DC4D06C11DD339D70039A072 /* LaunchScreen.storyboard */,
 				DC4D06C41DD339D70039A072 /* Info.plist */,
+				DC4D06CA1DD33F960039A072 /* Resoure */,
 			);
 			path = "Math Chil";
+			sourceTree = "<group>";
+		};
+		DC4D06CA1DD33F960039A072 /* Resoure */ = {
+			isa = PBXGroup;
+			children = (
+				DC4D06CB1DD33FAC0039A072 /* board.png */,
+				DC4D06CC1DD33FAC0039A072 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */,
+				DC4D06CD1DD33FAC0039A072 /* note1.png */,
+				DC4D06CE1DD33FAC0039A072 /* note2.png */,
+				DC4D06CF1DD33FAC0039A072 /* note3.png */,
+			);
+			name = Resoure;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +147,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC4D06D01DD33FAC0039A072 /* board.png in Resources */,
 				DC4D06C31DD339D70039A072 /* LaunchScreen.storyboard in Resources */,
 				DC4D06C01DD339D70039A072 /* Assets.xcassets in Resources */,
+				DC4D06D31DD33FAC0039A072 /* note2.png in Resources */,
+				DC4D06D21DD33FAC0039A072 /* note1.png in Resources */,
+				DC4D06D41DD33FAC0039A072 /* note3.png in Resources */,
 				DC4D06BE1DD339D70039A072 /* Main.storyboard in Resources */,
+				DC4D06D11DD33FAC0039A072 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
