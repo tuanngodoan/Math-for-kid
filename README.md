@@ -17,7 +17,7 @@ IOS > 10.1
 ### Kĩ thuật
 
 * Giải thuật cơ bản: Random ngẫu nhiên số, phép toán và vị trí button kết quả chính xác
-
+* Sử dụng Timer chạy thời gian
 ### Lỗi tồn tại
 
 * Giá trị kết quả bị trùng nhau
